@@ -17,5 +17,5 @@ The analysis provided answer to these questions and others, providing valuable i
 # Insights Presentation 
 The insights from this analysis were presented to stakeholders through a PowerPoint and Video Presentation, highlighting key findings and providing recommendations for optimization. 
 
-This repository contains a [SQL source code file](), showing the queries written, as well as other resources related to the project. 
+This repository contains a [SQL source code file](https://github.com/Taiwo-Rachael/Hotel-Reservation-Analysis-with-SQL/blob/main/SQL%20Source%20Codes.sql), showing the queries written, as well as other resources related to the project. 
 
