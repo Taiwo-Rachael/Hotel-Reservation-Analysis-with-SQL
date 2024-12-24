@@ -12,7 +12,7 @@ Some of the business questions this analysis set out to answer include:
 5. What Market segment was generating the highest average price per room?
 6. What was the highest and lowest lead time for reservations?
 
-The analysis provided answer to these questions and others, providing valuable insights and helping the business understand the reservation behaviours of their customers. 
+The analysis provided answer to these questions and others, providing valuable insights and helping the business understand the reservation behaviour of their customers. 
 
 # Insights Presentation 
 The insights from this analysis were presented to stakeholders through a PowerPoint and Video Presentation, highlighting key findings and providing recommendations for optimization. 
