@@ -1,7 +1,7 @@
 # Hotel-Reservation-Analysis-with-SQL
 Data is important in every industry, and the hotel industry is not an exception. Data helps hotel businesses to make informed decisions necessary for improving guest experiences, optimizing operations, and driving revenue.  
 
-This hotel reservation analysis, which I carried out in the course of my internship at Mentorness, focused on writing SQL queries in order to answer key business questions, extract actionable insights and provide recommendations for business optimization based on the results of the analysis. This Project was carried in MySQL Workbench.
+This hotel reservation analysis, which I carried out in the course of my internship at Mentorness, focused on writing SQL queries to extract and analyse data from a relational database in order to answer key business questions, extract actionable insights and provide recommendations for business optimization based on the results of the analysis. This Project was carried in MySQL Workbench.
 
 # Business Questions
 Some of the business questions this analysis set out to answer include:
